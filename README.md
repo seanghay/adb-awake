@@ -4,6 +4,8 @@ Turn ON/OFF stay wake while charging from command line.
 
 ## Installation
 
+> You need to have `adb` install on your machine!
+
 ```sh
 npm i -g adb-awake
 ```
